@@ -17,3 +17,13 @@
 - ironing board
 
 - screened in porch
+
+
+- Fire Department
+	- Lieutenant Dennis Detkowski 262-248-7228
+	- Jim Bastic
+- Zoning and Building Inspection
+	- Ken Robers
+
+Mike Kasseric
+Dan Draper - City Attorney
