@@ -3,13 +3,15 @@
 
 ---
 
-![](https://github.com/OpeningDesign/Vacation_Rental/blob/35ee9e3de0366f6fa2cbd54f68497faa45765312/Models/2D%20Documents/Enscape_2016-09-29-13-53-28.png)
 
-![](https://github.com/OpeningDesign/Vacation_Rental/blob/35ee9e3de0366f6fa2cbd54f68497faa45765312/Models/2D%20Documents/Enscape_2016-09-29-14-04-41.png)
 
-![](https://github.com/OpeningDesign/Vacation_Rental/blob/35ee9e3de0366f6fa2cbd54f68497faa45765312/Models/2D%20Documents/Enscape_2016-09-29-14-07-39.png)
-
-![](https://github.com/OpeningDesign/Vacation_Rental/blob/35ee9e3de0366f6fa2cbd54f68497faa45765312/Models/2D%20Documents/Enscape_2016-09-29-14-26-58.png)
+![](/Models/2D Documents/Enscape_2016-09-29-13-53-28.png)
+![](/Models/2D Documents/Enscape_2016-09-29-13-54-47.png)
+![](/Models/2D Documents/Enscape_2016-09-29-13-59-47.png)
+![](/Models/2D Documents/Enscape_2016-09-29-14-04-41.png)
+![](/Models/2D Documents/Enscape_2016-09-29-14-07-02.png)
+![](/Models/2D Documents/Enscape_2016-09-29-14-07-39.png)
+![](/Models/2D Documents/Enscape_2016-09-29-14-26-58.png)
 
 ![](https://github.com/OpeningDesign/Vacation_Rental/blob/master/Research%20and%20CA/Research%20and%20Submittals/02%20-%20Existing%20Conditions%20and%20Code%20Research/Site%20Photos%20and%20Videos/2016-09-01%2014.03.53_EXISTING.jpg)
 
