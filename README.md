@@ -19,9 +19,6 @@
 ![](https://github.com/OpeningDesign/Vacation_Rental/blob/master/Research%20and%20CA/Research%20and%20Submittals/02%20-%20Existing%20Conditions%20and%20Code%20Research/Site%20Photos%20and%20Videos/2016-09-01%2014.08.23_EXISTING.jpg)
 
 
-![](https://github.com/OpeningDesign/Vacation_Rental/blob/master/Research%20and%20CA/Research%20and%20Submittals/02%20-%20Existing%20Conditions%20and%20Code%20Research/Site%20Photos%20and%20Videos/2016-09-01 14.08.23_EXISTING.jpg)
-
-
 ============
 
 #### In-the-Open
