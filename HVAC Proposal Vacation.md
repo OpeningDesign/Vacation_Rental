@@ -1,11 +1,11 @@
-﻿<p align="right" style="" >
-<img src="https://lh3.googleusercontent.com/t3Y9XsF-KvVtMd9JtGKVc_-Yeu1WbG4DAWMqyWNDF4KVZ5gRWrf_9gpc3olhYK-pgBmeoHH0kYa_bzs=w1920-h870-rw" width="160px"/>
+<p align="right" style="" >
+<img src="https://i.ytimg.com/vi/HCo4l9uGwDc/hqdefault_live.jpg" width="160px"/>
 </p>
 
 
 ## Vacation Rental in Lake Geneva, WI
 
-#### Proposal for [Desapex Engineering Consultants's](http://desapex.com/) Mechanical Design (HVAC) services
+#### Proposal for [Desapex Engineering Consultants'](http://desapex.com/) Mechanical Design (HVAC) services
 
 ---
 Hello, 
@@ -33,18 +33,18 @@ Although a more nuanced list of requirements will undoubtedly unfold as the proj
 
 * **Phase 2 - Schematic Design**
 *(approximate duration/fee: 1.2 weeks / 20% )*
-    * Heat load analysis with capacities of AC eqipment
+    * Heat load analysis with capacities of AC equipment
     * Space allocation for AC equipment
-    * Presenting design brief report in power point highlighting design consideration and basis of equipment selection.
+    * Presenting design brief report in PowerPoint highlighting design consideration and basis of equipment selection.
     * Develop single line scheme routing for AC ducting/piping       
-    * Coordinate with Architect & other services consulatnts
+    * Coordinate with Architect & other services consultants
 
 * **Phase 3 - Design Development**
 *(approximate duration/fee: 2.1 weeks / 35% )*
-    * Develop approved design opition
+    * Develop approved design option
     * Update 3D model with approx. sizes of equipment
     * Discuss the selection of air terminals/AC equipment with client/Architect
-    * Discuss structural requiremts for floor monted/ceiling suspended AC units
+    * Discuss structural requirements for floor mounted/ceiling suspended AC units
     * Developed deliverables will include:
         * Floor Plans
         * Sections detail
@@ -66,26 +66,26 @@ Although a more nuanced list of requirements will undoubtedly unfold as the proj
 	        * Sectional details
 	        * Typical installation details of items in scope
 	    * Clarify design intent to the contractor and clarify any questions in preparing bid
-        * Provide technical assistance to client(if required ) in comparing/evaluating contractor's quote.
-    * Continue to coordinate and communicate with Architect, other engineering consultant and contarctor if necessary.
+        * Provide technical assistance to client (if required) in comparing/evaluating contractor's quote.
+    * Continue to coordinate and communicate with Architect, other engineering consultant and contractor if necessary.
 
 * **Phase 5 - Commissioning & Closure**
 *(approximate duration/fee: 0.3 week / 5% )*
     * Monitor construction progress (remotely) and coordinate with HVAC contractor on site
     * coordinate with commissioning team
-    * Review commisioning/balancing reports submitted by commissioning team
+    * Review commissioning/balancing reports submitted by commissioning team
     * Review warranty & other closure documents submitted by contractor
 
 ---
-#### Part C - Time,Fees and workflow
+#### Part C - Time, Fees and workflow
 
 * Time required for above mentioned scope & phases is **6 weeks ** with 40 hour work week.
-* **35 US$ per hour** is our fees.
-* Total fees shall be **4200 USD**
+* **35 US$ per hour** is our hourly rate.
+* Total fees shall not exceed **4200 USD**
 * Payment shall be linked to phases of project and invoice shall be raised at the end of each phase.
-* Payment needs to be made within 15 days of invoicing date.
-* Even if project collaboration happens on a platform, **No information will be shared outside project team till client agrees to fully open approach**.
-
+* Payment needs to be made within 30 days of invoicing date.
+* We understand the project file and project communication will be hosted on Github.  Specific location: https://github.com/OpeningDesign/Vacation_Rental
+* We understand our digital content associated with this project will be licensed under an open source, 'copyleft' license: [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).  Copyright and attribution of this content will be associated with [Desapex Engineering Consultants](http://desapex.com/).
 
 ---
 
@@ -119,12 +119,13 @@ Desapex Engineering Consultants
 <br>
 <br>
 
-We agree to the terms mentioned in Part C with refernce to scope of work mentioned in Part A & Part B.
+We agree to the terms mentioned in Part C with reference to scope of work mentioned in Part A & Part B.
 We hereby appoint **Desapex Engineering Consultants** to provide design services for the project.
 
 
 ## Authorized by:
 
+Representative for **OpeningDesign** 
 
 * Signature
 <hr>
@@ -136,6 +137,21 @@ We hereby appoint **Desapex Engineering Consultants** to provide design services
 	<hr>
 
 <br>
+<br>
+Representative for **Desapex Engineering Consultants** 
+
+* Signature
+<hr>
+
+* Title
+<hr>
+
+* Date
+	<hr>
+
+<br>
+
+---
 
 ---
 
