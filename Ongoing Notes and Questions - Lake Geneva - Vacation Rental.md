@@ -30,3 +30,10 @@ Dan Draper - City Attorney
 
 
 
+- Balloon framed?
+- foundation dimensions
+	- floor dimensions
+	- 
+
+
+
