@@ -19,6 +19,7 @@ We are very happy to submit our proposal for the Mechanical design services for 
 Although a more nuanced list of requirements will undoubtedly unfold as the project evolves, so far, on a high-level, we understand that the project will include the following...
 
  - Heating Ventilation & Air conditioning system design with load analysis for all 3500 sft space
+ - Plumbing internal drawings only without calculations
  - We can finalise on room to be eliminated from air conditioning 
 
 ---
@@ -36,7 +37,7 @@ Although a more nuanced list of requirements will undoubtedly unfold as the proj
     * Heat load analysis with capacities of AC equipment
     * Space allocation for AC equipment
     * Presenting design brief report in PowerPoint highlighting design consideration and basis of equipment selection.
-    * Develop single line scheme routing for AC ducting/piping       
+    * Develop single line scheme routing for AC ducting/piping
     * Coordinate with Architect & other services consultants
 
 * **Phase 3 - Design Development**
@@ -52,6 +53,7 @@ Although a more nuanced list of requirements will undoubtedly unfold as the proj
         * Ventilation scheme
         * Power requirement for AC equipment
     * Coordinate with Architect & other services consulatnts
+    * Plumbing 3D model indicating piping plan for domestic hot water, cold water and sanitary.
 
 * **Phase 4 - Tender Documentation**
 *(approximate duration/fee: 2.1 weeks / 35% )*
@@ -64,7 +66,9 @@ Although a more nuanced list of requirements will undoubtedly unfold as the proj
 	        * Mechanical/HVAC floor plan for each floor
 	        * Civil requirements drawing for each floor
 	        * Sectional details
-	        * Typical installation details of items in scope
+	        * Typical installation details of HVAC items in scope
+		* Internal Plumbing drawing for supply system ( Hot & cold water)
+		* Internal Plumbing drawing for Sanitary (drainage) system
 	    * Clarify design intent to the contractor and clarify any questions in preparing bid
         * Provide technical assistance to client (if required) in comparing/evaluating contractor's quote.
     * Continue to coordinate and communicate with Architect, other engineering consultant and contractor if necessary.
@@ -79,9 +83,9 @@ Although a more nuanced list of requirements will undoubtedly unfold as the proj
 ---
 #### Part C - Time, Fees and workflow
 
-* Time required for above mentioned scope & phases is **6 weeks ** with 40 hour work week.
+* Time required for above mentioned scope & phases is ** 7 weeks ** with 40 hour work week.
 * **35 US$ per hour** is our hourly rate.
-* Total fees shall not exceed **4200 USD**
+* Total fees shall not exceed **4800 USD**
 * Payment shall be linked to phases of project and invoice shall be raised at the end of each phase.
 * Payment needs to be made within 30 days of invoicing date.
 * We understand the project file and project communication will be hosted on Github.  Specific location: https://github.com/OpeningDesign/Vacation_Rental
