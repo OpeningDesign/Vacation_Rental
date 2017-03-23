@@ -33,7 +33,7 @@ Although a more nuanced list of requirements will undoubtedly unfold as the proj
     * Identify statutory requirements for the projects
 
 * **Phase 2 - Schematic Design**
-*(approximate duration/fee: 1.2 weeks / 20% )*
+*(approximate duration/fee: 1.4 weeks / 20% )*
     * Heat load analysis with capacities of AC equipment
     * Space allocation for AC equipment
     * Presenting design brief report in PowerPoint highlighting design consideration and basis of equipment selection.
@@ -41,7 +41,7 @@ Although a more nuanced list of requirements will undoubtedly unfold as the proj
     * Coordinate with Architect & other services consultants
 
 * **Phase 3 - Design Development**
-*(approximate duration/fee: 2.1 weeks / 35% )*
+*(approximate duration/fee: 2.4 weeks / 35% )*
     * Develop approved design option
     * Update 3D model with approx. sizes of equipment
     * Discuss the selection of air terminals/AC equipment with client/Architect
@@ -56,7 +56,7 @@ Although a more nuanced list of requirements will undoubtedly unfold as the proj
     * Plumbing 3D model indicating piping plan for domestic hot water, cold water and sanitary.
 
 * **Phase 4 - Tender Documentation**
-*(approximate duration/fee: 2.1 weeks / 35% )*
+*(approximate duration/fee: 2.4 weeks / 35% )*
      * Will complete the following drawings for Tender/contarctor quote:
         * Scope of work for the Mechanical/HVAC contractor.
         * Specification & performance requirements of all items in scope.
@@ -74,7 +74,7 @@ Although a more nuanced list of requirements will undoubtedly unfold as the proj
     * Continue to coordinate and communicate with Architect, other engineering consultant and contractor if necessary.
 
 * **Phase 5 - Commissioning & Closure**
-*(approximate duration/fee: 0.3 week / 5% )*
+*(approximate duration/fee: 0.4 week / 5% )*
     * Monitor construction progress (remotely) and coordinate with HVAC contractor on site
     * coordinate with commissioning team
     * Review commissioning/balancing reports submitted by commissioning team
