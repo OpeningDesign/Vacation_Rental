@@ -18,8 +18,7 @@ We are very happy to submit our proposal for the Mechanical design services for 
 ####  Part A - Scope of work...
 Although a more nuanced list of requirements will undoubtedly unfold as the project evolves, so far, on a high-level, we understand that the project will include the following...
 
- - Heating Ventilation & Air conditioning system design with load analysis for all 3500 sft space
- - Plumbing internal drawings only without calculations
+ - Heating Ventilation & Air conditioning system design with load analysis for all 3500 sft space in accordance to requirements of Wisconsin SPS 364.
  - We can finalise on room to be eliminated from air conditioning 
 
 ---
@@ -33,15 +32,15 @@ Although a more nuanced list of requirements will undoubtedly unfold as the proj
     * Identify statutory requirements for the projects
 
 * **Phase 2 - Schematic Design**
-*(approximate duration/fee: 1.4 weeks / 20% )*
-    * Heat load analysis with capacities of AC equipment
+*(approximate duration/fee: 1.2 weeks / 20% )*
+    * Heat gain/loss & ventilation calculation for all spaces.
     * Space allocation for AC equipment
     * Presenting design brief report in PowerPoint highlighting design consideration and basis of equipment selection.
     * Develop single line scheme routing for AC ducting/piping
     * Coordinate with Architect & other services consultants
 
 * **Phase 3 - Design Development**
-*(approximate duration/fee: 2.4 weeks / 35% )*
+*(approximate duration/fee: 2.1 weeks / 35% )*
     * Develop approved design option
     * Update 3D model with approx. sizes of equipment
     * Discuss the selection of air terminals/AC equipment with client/Architect
@@ -53,28 +52,26 @@ Although a more nuanced list of requirements will undoubtedly unfold as the proj
         * Ventilation scheme
         * Power requirement for AC equipment
     * Coordinate with Architect & other services consulatnts
-    * Plumbing 3D model indicating piping plan for domestic hot water, cold water and sanitary.
 
 * **Phase 4 - Tender Documentation**
-*(approximate duration/fee: 2.4 weeks / 35% )*
+*(approximate duration/fee: 2.1 weeks / 35% )*
      * Will complete the following drawings for Tender/contarctor quote:
         * Scope of work for the Mechanical/HVAC contractor.
         * Specification & performance requirements of all items in scope.
         * Bill of quantities of all items in scope
         * Equipment & Airterminal schedule
         * Tender drawings
-	        * Mechanical/HVAC floor plan for each floor
+	        * Mechanical/HVAC floor plan for each floor with equipment & air distribution details.
 	        * Civil requirements drawing for each floor
 	        * Sectional details
 	        * Typical installation details of HVAC items in scope
-		* Internal Plumbing drawing for supply system ( Hot & cold water)
-		* Internal Plumbing drawing for Sanitary (drainage) system
+		* Equipment, air terminal & damper schedules.
 	    * Clarify design intent to the contractor and clarify any questions in preparing bid
         * Provide technical assistance to client (if required) in comparing/evaluating contractor's quote.
     * Continue to coordinate and communicate with Architect, other engineering consultant and contractor if necessary.
 
 * **Phase 5 - Commissioning & Closure**
-*(approximate duration/fee: 0.4 week / 5% )*
+*(approximate duration/fee: 0.3 week / 5% )*
     * Monitor construction progress (remotely) and coordinate with HVAC contractor on site
     * coordinate with commissioning team
     * Review commissioning/balancing reports submitted by commissioning team
@@ -83,9 +80,9 @@ Although a more nuanced list of requirements will undoubtedly unfold as the proj
 ---
 #### Part C - Time, Fees and workflow
 
-* Time required for above mentioned scope & phases is ** 7 weeks ** with 40 hour work week.
+* Time required for above mentioned scope & phases is ** 6 weeks ** with 40 hour work week.
 * **35 US$ per hour** is our hourly rate.
-* Total fees shall not exceed **4800 USD**
+* Total fees shall not exceed **4200 USD**
 * Payment shall be linked to phases of project and invoice shall be raised at the end of each phase.
 * Payment needs to be made within 30 days of invoicing date.
 * We understand the project file and project communication will be hosted on Github.  Specific location: https://github.com/OpeningDesign/Vacation_Rental
