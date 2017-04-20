@@ -102,23 +102,11 @@ We assure you best of our services.
 <br>
 Kind Regards,
 <br>
-<br>
-<br>
 
-
- 
 Shreenidhi Hungund
-
 Desapex Engineering Consultants
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 We agree to the terms mentioned in Part C with reference to scope of work mentioned in Part A & Part B.
 We hereby appoint **Desapex Engineering Consultants** to provide design services for the project.
@@ -152,6 +140,4 @@ Representative for **Desapex Engineering Consultants**
 
 <br>
 
----
 
----
