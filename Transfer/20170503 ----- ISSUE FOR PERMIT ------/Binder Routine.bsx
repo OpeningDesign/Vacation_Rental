@@ -1,0 +1,519 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Jobs>
+  <Job>
+    <OutputFileName>Binder.pdf</OutputFileName>
+    <StampsOnAllPages />
+    <OutputDir>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------</OutputDir>
+    <JobOptions>
+      <Name>Standard Document.joboptions</Name>
+      <Width>-1</Width>
+      <Height>-1</Height>
+      <Orient>Auto</Orient>
+      <ImageCompression>Flate</ImageCompression>
+      <ImageResolution>300</ImageResolution>
+      <JpegQuality>75</JpegQuality>
+      <ImageAliasingText>2</ImageAliasingText>
+      <ImageAliasingGraphics>2</ImageAliasingGraphics>
+      <LineMergeOn>False</LineMergeOn>
+      <BlendMode>Darken</BlendMode>
+      <BlendAlpha>1</BlendAlpha>
+      <PDFPostProcess>False</PDFPostProcess>
+      <PostProcessProcessMasks>False</PostProcessProcessMasks>
+      <PostProcessFixStripedImageTransparency>False</PostProcessFixStripedImageTransparency>
+      <PostProcessCombineAdjacentImages>False</PostProcessCombineAdjacentImages>
+      <PostProcessOptimizeSolidImages>False</PostProcessOptimizeSolidImages>
+      <PostProcessRemoveTextClipping>False</PostProcessRemoveTextClipping>
+      <PostProcessSimplifyClippingPaths>False</PostProcessSimplifyClippingPaths>
+      <PostProcessPDFVersion>Version_1_4</PostProcessPDFVersion>
+    </JobOptions>
+    <ColorDepth>4</ColorDepth>
+    <OpenOutputFileAfter>True</OpenOutputFileAfter>
+    <DeleteTempPS>False</DeleteTempPS>
+    <Name />
+    <Overwrite>0</Overwrite>
+    <Delete>False</Delete>
+    <InterpreterType />
+    <LastError />
+    <Unfiltered>False</Unfiltered>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A000 - SITE PLAN &amp; CODE SUMMARY.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A000 - SITE PLAN &amp; CODE SUMMARY.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName>Revu</ExeName>
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A001 - LIFE SAFETY &amp; CODE SUMMARY.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A001 - LIFE SAFETY &amp; CODE SUMMARY.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A100 - DEMOLITION PLANS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A100 - DEMOLITION PLANS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A101 - 1ST &amp; 2ND FLOOR PLANS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A101 - 1ST &amp; 2ND FLOOR PLANS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A102 - BASEMENT &amp; ROOF FLOOR PLANS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A102 - BASEMENT &amp; ROOF FLOOR PLANS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A151 - 1ST &amp; 2ND REFLECTED CEILING PLANS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A151 - 1ST &amp; 2ND REFLECTED CEILING PLANS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A152 - BASEMENT REFLECTED CEILING PLANS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A152 - BASEMENT REFLECTED CEILING PLANS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A200 - EXTERIOR ELEVATIONS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A200 - EXTERIOR ELEVATIONS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A300 - BUILDING SECTIONS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A300 - BUILDING SECTIONS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A350 - WALL SECTIONS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A350 - WALL SECTIONS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A351 - WALL SECTIONS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A351 - WALL SECTIONS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A360 - STAIR SECTIONS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A360 - STAIR SECTIONS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A361 - STAIR SECTIONS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A361 - STAIR SECTIONS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A400 - EXTERIOR DETAILS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A400 - EXTERIOR DETAILS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A401 - EXTERIOR DETAILS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A401 - EXTERIOR DETAILS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A402 - EXTERIOR DETAILS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A402 - EXTERIOR DETAILS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A500 - ADA RESTROOM &amp; SCHEDULES.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\A500 - ADA RESTROOM &amp; SCHEDULES.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\S100 - STRUCTURAL - NOTES.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\S100 - STRUCTURAL - NOTES.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\S101 - STRUCTURAL - FLOOR PLANS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\S101 - STRUCTURAL - FLOOR PLANS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\S300 - STRUCTURAL - SECTIONS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\S300 - STRUCTURAL - SECTIONS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\S400 - BRACING ELEVATION.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\S400 - BRACING ELEVATION.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\S401 - BRACING DETAILS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\S401 - BRACING DETAILS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\M-000 - HVAC Notes &amp; Legends.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\M-000 - HVAC Notes &amp; Legends.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\M-001 - HVAC Basement &amp; Roof plan.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\M-001 - HVAC Basement &amp; Roof plan.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\M-002 - HVAC 1st &amp; 2nd Floor plan.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\M-002 - HVAC 1st &amp; 2nd Floor plan.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\P0-00 - PLUMBING SYMBOLS &amp; ABBREVIATIONS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\P0-00 - PLUMBING SYMBOLS &amp; ABBREVIATIONS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\P1-01 - BASEMENT &amp; FIRST FLOOR SANITARY PLAN.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\P1-01 - BASEMENT &amp; FIRST FLOOR SANITARY PLAN.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\P1-02 - SECOND FLOOR AND ROOF PLUMING PLANS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\P1-02 - SECOND FLOOR AND ROOF PLUMING PLANS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\P1-03 - BASEMENT &amp; FIRST FLOOR WATER DISTRIBUTION.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\P1-03 - BASEMENT &amp; FIRST FLOOR WATER DISTRIBUTION.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\P1-04 - DETAILS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\P1-04 - DETAILS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\P1-05 - RISER DIAGRAMS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\P1-05 - RISER DIAGRAMS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\Structural Calculations.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170503 ----- ISSUE FOR PERMIT ------\Structural Calculations.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+  </Job>
+</Jobs>
