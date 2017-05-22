@@ -4,7 +4,7 @@
 *.bak
 *.ifc.log.html
 Ryan_Random_Tests/
-
+*000*.rfa
 
 
 # Windows image file caches
@@ -61,3 +61,5 @@ Icon
 *.ods#
 *.csv#
 *.xlsx#
+/Models/Enscape Files/Enscape__The Downtowner_ARCH.exe
+/Transfer/20170518 - Kitchen Layout to Owner/Enscape__The Downtowner_ARCH.exe

@@ -1,31 +1,38 @@
-DI_Discipline,DI_Responsible,DI_Sheet Number,DI_Sheet Title,DI_Printed From,DI_Issue for Permit
-ARCH,Ryan,A001,LIFE SAFETY & CODE SUMMARY,The Downtowner_ARCH.rvt,X
-ARCH,Ryan,A100,DEMOLITION PLANS,The Downtowner_ARCH.rvt,X
-ARCH,Ryan,A101,1ST & 2ND FLOOR PLANS,The Downtowner_ARCH.rvt,X
-ARCH,Ryan,A102,BASEMENT & ROOF FLOOR PLANS,The Downtowner_ARCH.rvt,X
-ARCH,Ryan,A151,1ST & 2ND REFLECTED CEILING PLANS,The Downtowner_ARCH.rvt,X
-ARCH,Ryan,A152,BASEMENT REFLECTED CEILING PLANS,The Downtowner_ARCH.rvt,X
-ARCH,Ryan,A200,EXTERIOR ELEVATIONS,The Downtowner_ARCH.rvt,X
-ARCH,Ryan,A300,BUILDING SECTIONS,The Downtowner_ARCH.rvt,X
-ARCH,Ryan,A350,WALL SECTIONS,The Downtowner_ARCH.rvt,X
-ARCH,Ryan,A351,WALL SECTIONS,The Downtowner_ARCH.rvt,X
-ARCH,Ryan,A360,STAIR SECTIONS,The Downtowner_ARCH.rvt,X
-ARCH,Ryan,A361,STAIR SECTIONS,The Downtowner_ARCH.rvt,X
-ARCH,Ryan,A400,EXTERIOR DETAILS,The Downtowner_ARCH.rvt,X
-ARCH,Ryan,A401,EXTERIOR DETAILS,The Downtowner_ARCH.rvt,X
-ARCH,Ryan,A402,EXTERIOR DETAILS,The Downtowner_ARCH.rvt,X
-ARCH,Ryan,A500,ADA RESTROOM & SCHEDULES,The Downtowner_ARCH.rvt,X
-ARCH,Ryan,S100,STRUCTURAL - NOTES,The Downtowner_ARCH.rvt,X
-ARCH,Ryan,S101,STRUCTURAL - FLOOR PLANS,The Downtowner_ARCH.rvt,X
-ARCH,Ryan,S300,STRUCTURAL - SECTIONS,The Downtowner_ARCH.rvt,X
-ARCH,Regis,S400,BRACING ELEVATION,The Downtowner_ARCH_Exterior Details,X
-ARCH,Regis,S401,BRACING DETAILS,The Downtowner_ARCH_Exterior Details,X
-HVAC,Shree,M.000,HVAC Notes & Legends,The Downtowner_HVAC.rvt,X
-HVAC,Shree,M.000,HVAC Basement & Roof plan,The Downtowner_HVAC.rvt,X
-HVAC,Shree,M.000,HVAC 1st & 2nd Floor plan,The Downtowner_HVAC.rvt,X
-PLMB,Roberto,P0.00,PLUMBING SYMBOLS & ABBREVIATIONS,The_Downtowner_PLMB_ZS.rvt,X
-PLMB,Roberto,P1.01,BASEMENT & FIRST FLOOR SANITARY PLAN,The_Downtowner_PLMB_ZS.rvt,X
-PLMB,Roberto,P1.02,SECOND FLOOR AND ROOF PLUMING PLANS,The_Downtowner_PLMB_ZS.rvt,X
-PLMB,Roberto,P1.03,BASEMENT & FIRST FLOOR WATER DISTRIBUTION,The_Downtowner_PLMB_ZS.rvt,X
-PLMB,Roberto,P1.04,DETAILS,The_Downtowner_PLMB_ZS.rvt,X
-PLMB,Roberto,P1.05,RISER DIAGRAMS,The_Downtowner_PLMB_ZS.rvt,X
+DI_Discipline,DI_Responsible,DI_Sheet Number,DI_Sheet Title,DI_Printed From,DI_Issue for Permit,DI_Issue for Bid
+ARCH,Ryan,A000,SITE PLAN & CODE SUMMARY,The Downtowner_ARCH.rvt,X,X
+ARCH,Ryan,A001,LIFE SAFETY & CODE SUMMARY,The Downtowner_ARCH.rvt,X,X
+ARCH,Ryan,A100,DEMOLITION PLANS,The Downtowner_ARCH.rvt,X,X
+ARCH,Ryan,A101,1ST & 2ND FLOOR PLANS,The Downtowner_ARCH.rvt,X,X
+ARCH,Ryan,A102,BASEMENT & ROOF FLOOR PLANS,The Downtowner_ARCH.rvt,X,X
+ARCH,Ryan,A151,1ST & 2ND REFLECTED CEILING PLANS,The Downtowner_ARCH.rvt,X,X
+ARCH,Ryan,A152,BASEMENT REFLECTED CEILING PLANS,The Downtowner_ARCH.rvt,X,X
+ARCH,Ryan,A200,EXTERIOR ELEVATIONS,The Downtowner_ARCH.rvt,X,X
+ARCH,Ryan,A300,BUILDING SECTIONS,The Downtowner_ARCH.rvt,X,X
+ARCH,Ryan,A350,WALL SECTIONS,The Downtowner_ARCH.rvt,X,X
+ARCH,Ryan,A351,WALL SECTIONS,The Downtowner_ARCH.rvt,X,X
+ARCH,Ryan,A360,STAIR SECTIONS,The Downtowner_ARCH.rvt,X,X
+ARCH,Ryan,A361,STAIR SECTIONS,The Downtowner_ARCH.rvt,X,X
+ARCH,Ryan,A400,EXTERIOR DETAILS,The Downtowner_ARCH.rvt,X,X
+ARCH,Ryan,A401,EXTERIOR DETAILS,The Downtowner_ARCH.rvt,X,X
+ARCH,Ryan,A402,EXTERIOR DETAILS,The Downtowner_ARCH.rvt,X,X
+ARCH,Ryan,A500,ADA RESTROOM & SCHEDULES,The Downtowner_ARCH_2D and Schedules.rvt,X,X
+ARCH,Ryan,A501,SCHEDULES,The Downtowner_ARCH.rvt,,X
+ARCH,Ryan,S100,STRUCTURAL - NOTES,The Downtowner_ARCH.rvt,X,X
+ARCH,Ryan,S101,STRUCTURAL - FOUNDATION & 1ST FLOOR,The Downtowner_ARCH.rvt,X,X
+ARCH,Ryan,S102,STRUCTURAL - 2ND FLOOR & ROOF FRAMING,The Downtowner_ARCH.rvt,,X
+ARCH,Ryan,S300,STRUCTURAL - SECTIONS,The Downtowner_ARCH.rvt,X,X
+ARCH,Regis,S400,BRACING ELEVATION,The Downtowner_ARCH_Exterior Details,X,X
+ARCH,Regis,S401,BRACING DETAILS,The Downtowner_ARCH_Exterior Details,X,X
+ARCH,Regis,S402,BRACING DETAILS,The Downtowner_ARCH_Exterior Details,,X
+ARCH,Regis,S403,BRACING DETAILS,The Downtowner_ARCH_Exterior Details,,X
+ARCH,Regis,S404,BRACING DETAILS,The Downtowner_ARCH_Exterior Details,,X
+ARCH,Ryan,S500,FRAMING & COLUMN SCHEDULES,The Downtowner_ARCH.rvt,,X
+HVAC,Shree,M.000,HVAC Notes & Legends,The Downtowner_HVAC.rvt,X,X
+HVAC,Shree,M.000,HVAC Basement & Roof plan,The Downtowner_HVAC.rvt,X,X
+HVAC,Shree,M.000,HVAC 1st & 2nd Floor plan,The Downtowner_HVAC.rvt,X,X
+PLMB,Roberto,P0.00,PLUMBING SYMBOLS & ABBREVIATIONS,The_Downtowner_PLMB_ZS.rvt,X,X
+PLMB,Roberto,P1.01,BASEMENT & FIRST FLOOR SANITARY PLAN,The_Downtowner_PLMB_ZS.rvt,X,X
+PLMB,Roberto,P1.02,SECOND FLOOR AND ROOF PLUMING PLANS,The_Downtowner_PLMB_ZS.rvt,X,X
+PLMB,Roberto,P1.03,BASEMENT & FIRST FLOOR WATER DISTRIBUTION,The_Downtowner_PLMB_ZS.rvt,X,X
+PLMB,Roberto,P1.04,DETAILS,The_Downtowner_PLMB_ZS.rvt,X,X
+PLMB,Roberto,P1.05,RISER DIAGRAMS,The_Downtowner_PLMB_ZS.rvt,X,X

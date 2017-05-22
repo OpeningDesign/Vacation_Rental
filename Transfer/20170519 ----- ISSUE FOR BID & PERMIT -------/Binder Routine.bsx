@@ -1,0 +1,594 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Jobs>
+  <Job>
+    <OutputFileName>Binder.pdf</OutputFileName>
+    <StampsOnAllPages />
+    <OutputDir>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------</OutputDir>
+    <JobOptions>
+      <Name>Standard Document.joboptions</Name>
+      <Width>-1</Width>
+      <Height>-1</Height>
+      <Orient>Auto</Orient>
+      <ImageCompression>Flate</ImageCompression>
+      <ImageResolution>300</ImageResolution>
+      <JpegQuality>75</JpegQuality>
+      <ImageAliasingText>2</ImageAliasingText>
+      <ImageAliasingGraphics>2</ImageAliasingGraphics>
+      <LineMergeOn>False</LineMergeOn>
+      <BlendMode>Darken</BlendMode>
+      <BlendAlpha>1</BlendAlpha>
+      <PDFPostProcess>False</PDFPostProcess>
+      <PostProcessProcessMasks>False</PostProcessProcessMasks>
+      <PostProcessFixStripedImageTransparency>False</PostProcessFixStripedImageTransparency>
+      <PostProcessCombineAdjacentImages>False</PostProcessCombineAdjacentImages>
+      <PostProcessOptimizeSolidImages>False</PostProcessOptimizeSolidImages>
+      <PostProcessRemoveTextClipping>False</PostProcessRemoveTextClipping>
+      <PostProcessSimplifyClippingPaths>False</PostProcessSimplifyClippingPaths>
+      <PostProcessPDFVersion>Version_1_4</PostProcessPDFVersion>
+    </JobOptions>
+    <ColorDepth>4</ColorDepth>
+    <OpenOutputFileAfter>True</OpenOutputFileAfter>
+    <DeleteTempPS>False</DeleteTempPS>
+    <Name />
+    <Overwrite>0</Overwrite>
+    <Delete>False</Delete>
+    <InterpreterType />
+    <LastError />
+    <Unfiltered>False</Unfiltered>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A000 - SITE PLAN &amp; CODE SUMMARY.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A000 - SITE PLAN &amp; CODE SUMMARY.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName>Revu</ExeName>
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A001 - LIFE SAFETY &amp; CODE SUMMARY.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A001 - LIFE SAFETY &amp; CODE SUMMARY.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A100 - DEMOLITION PLANS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A100 - DEMOLITION PLANS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A101 - 1ST &amp; 2ND FLOOR PLANS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A101 - 1ST &amp; 2ND FLOOR PLANS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A102 - BASEMENT &amp; ROOF FLOOR PLANS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A102 - BASEMENT &amp; ROOF FLOOR PLANS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A151 - 1ST &amp; 2ND REFLECTED CEILING PLANS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A151 - 1ST &amp; 2ND REFLECTED CEILING PLANS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A152 - BASEMENT REFLECTED CEILING PLANS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A152 - BASEMENT REFLECTED CEILING PLANS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A200 - EXTERIOR ELEVATIONS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A200 - EXTERIOR ELEVATIONS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A300 - BUILDING SECTIONS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A300 - BUILDING SECTIONS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A350 - WALL SECTIONS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A350 - WALL SECTIONS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A351 - WALL SECTIONS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A351 - WALL SECTIONS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A360 - STAIR SECTIONS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A360 - STAIR SECTIONS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A361 - STAIR SECTIONS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A361 - STAIR SECTIONS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A400 - EXTERIOR DETAILS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A400 - EXTERIOR DETAILS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A401 - EXTERIOR DETAILS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A401 - EXTERIOR DETAILS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A402 - EXTERIOR DETAILS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A402 - EXTERIOR DETAILS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH_2D and Schedules - Sheet - A500 - ADA RESTROOM &amp; SCHEDULES.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH_2D and Schedules - Sheet - A500 - ADA RESTROOM &amp; SCHEDULES.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A501 - SCHEDULES.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - A501 - SCHEDULES.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - S100 - STRUCTURAL - NOTES.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - S100 - STRUCTURAL - NOTES.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - S101 - STRUCTURAL - FOUNDATION &amp; 1ST FLOOR.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - S101 - STRUCTURAL - FOUNDATION &amp; 1ST FLOOR.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - S102 - STRUCTURAL - 2ND FLOOR &amp; ROOF FRAMING.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - S102 - STRUCTURAL - 2ND FLOOR &amp; ROOF FRAMING.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - S300 - STRUCTURAL - SECTIONS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - S300 - STRUCTURAL - SECTIONS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH_Exterior Details - Sheet - S400 - BRACING ELEVATION.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH_Exterior Details - Sheet - S400 - BRACING ELEVATION.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH_Exterior Details - Sheet - S401 - BRACING DETAILS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH_Exterior Details - Sheet - S401 - BRACING DETAILS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH_Exterior Details - Sheet - S402 - BRACING DETAILS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH_Exterior Details - Sheet - S402 - BRACING DETAILS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH_Exterior Details - Sheet - S403 - BRACING DETAILS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH_Exterior Details - Sheet - S403 - BRACING DETAILS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH_Exterior Details - Sheet - S404 - BRACING DETAILS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH_Exterior Details - Sheet - S404 - BRACING DETAILS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - S500 - FRAMING SCHEDULE.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_ARCH - Sheet - S500 - FRAMING SCHEDULE.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_HVAC - Sheet - M-000 - HVAC Notes &amp; Legends.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_HVAC - Sheet - M-000 - HVAC Notes &amp; Legends.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_HVAC - Sheet - M-001 - HVAC Basement &amp; Roof plan.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_HVAC - Sheet - M-001 - HVAC Basement &amp; Roof plan.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_HVAC - Sheet - M-002 - HVAC 1st &amp; 2nd Floor plan.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The Downtowner_HVAC - Sheet - M-002 - HVAC 1st &amp; 2nd Floor plan.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The_Downtowner_PLMB_ZS - Sheet - P0-00 - PLUMBING SYMBOLS &amp; ABBREVIATIONS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The_Downtowner_PLMB_ZS - Sheet - P0-00 - PLUMBING SYMBOLS &amp; ABBREVIATIONS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The_Downtowner_PLMB_ZS - Sheet - P1-01 - BASEMENT &amp; FIRST FLOOR SANITARY PLAN.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The_Downtowner_PLMB_ZS - Sheet - P1-01 - BASEMENT &amp; FIRST FLOOR SANITARY PLAN.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The_Downtowner_PLMB_ZS - Sheet - P1-02 - SECOND FLOOR AND ROOF PLUMING PLANS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The_Downtowner_PLMB_ZS - Sheet - P1-02 - SECOND FLOOR AND ROOF PLUMING PLANS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The_Downtowner_PLMB_ZS - Sheet - P1-03 - BASEMENT &amp; FIRST FLOOR WATER DISTRIBUTION.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The_Downtowner_PLMB_ZS - Sheet - P1-03 - BASEMENT &amp; FIRST FLOOR WATER DISTRIBUTION.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The_Downtowner_PLMB_ZS - Sheet - P1-04 - DETAILS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The_Downtowner_PLMB_ZS - Sheet - P1-04 - DETAILS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+    <SubJob>
+      <OriginalFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The_Downtowner_PLMB_ZS - Sheet - P1-05 - RISER DIAGRAMS.pdf</OriginalFileName>
+      <InputFileName>C:\Dropbox\GitHub\Lake Geneva - Vacation Rental\Open - Lake Geneva - Vacation Rental\Transfer\20170519 ----- ISSUE FOR BID &amp; PERMIT -------\The_Downtowner_PLMB_ZS - Sheet - P1-05 - RISER DIAGRAMS.pdf</InputFileName>
+      <InputFileType>.pdf</InputFileType>
+      <ExeName />
+      <ApplicationTitle />
+      <PageSize />
+      <Orientation />
+      <Scale />
+      <TransferBookmarks>False</TransferBookmarks>
+      <TransferHyperlinks>False</TransferHyperlinks>
+      <TransferFileProperties>False</TransferFileProperties>
+      <Message />
+      <Stamps />
+    </SubJob>
+  </Job>
+</Jobs>
