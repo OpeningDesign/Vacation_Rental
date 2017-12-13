@@ -14,6 +14,10 @@
 ![](https://raw.githubusercontent.com/OpeningDesign/Vacation_Rental/master/Models/2D%20Documents/Enscape_2016-09-29-14-26-58.png)
 
 
+![](Vacation_Rental/Research and CA/Site Reports and Photos/20171212/North Facade.jpg)
+
+
+
 
 ![](https://github.com/OpeningDesign/Vacation_Rental/blob/master/Models/2D%20Documents/The%20Downtowner_HVAC%20and%20Plumbing_Perspective.jpg?raw=true)
 
